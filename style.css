@@ -39,9 +39,11 @@ button {
   padding: 0;
 }
   a:hover {
+    transition: 0.5s;
       opacity: 50%;
 }
 button:hover {
+  transition: 0.5s;
   opacity: 50%;
 }
 a {
